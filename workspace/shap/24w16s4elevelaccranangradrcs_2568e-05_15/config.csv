@@ -1,0 +1,8 @@
+,Feature_List,Window_Size,Stride_Size
+0,elevation,16,4
+1,vel,16,4
+2,acc,16,4
+3,range,16,4
+4,angularVel,16,4
+5,radialVel,16,4
+6,rcs,16,4
